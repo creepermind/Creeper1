@@ -1,3 +1,2 @@
 Hi, I’m @creeper
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning cloud
+looking for useful information here
